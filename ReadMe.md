@@ -1,18 +1,6 @@
-# Project Title
+# Repository Management Software
 
-Repository Management Software
-
-### Getting Started
-
-
-## Prerequisites
-
-Xampp
-
-
-<Project>: The Upload management syste,
-
-![<Project>](./assets/img/<an img>)
+## Getting Started
 
 ### Installation instructions
 
@@ -23,7 +11,7 @@ Xampp
 5. Import the 'signup (2).sql' into your database using phpMyAdmin
 6. Edit the connect.php and config.php to point to your MySQL server, and fill in the credentials you used to complete Step-5
 
-##Optional steps to enable password resetting mails:
+### Optional steps to enable password resetting mails:
 1. Open your PHP configuration file placed at 'C:\xampp\php\php.ini' in a text editor, replace 'C:\xampp' with path to your XAMPP installation directory.
 2. scroll down to the following lines independently:
 
@@ -58,11 +46,13 @@ mail.force_extra_parameters = "-t"
 - Users can edit only those folders which they have themselves created
 - Ability to search by tags and filename
 
+
+## Screenshots
 <p align="center">
   <img src="assets/img/userinterface.jpg" width="350" title="hover text">
   </p>
   <p align="centre">
-  <img src="assets/img/userlogin.jpg" width="350" alt="accessibility text">
+  <img src="assets/img/userlogin.jpg" width="350" title="hover text">
 </p>
 <p align="center">
   <img src="assets/img/upload.jpg" width="350" title="hover text">
