@@ -49,13 +49,13 @@ mail.force_extra_parameters = "-t"
 
 ## Screenshots
 <p align="center">
-  <img src="assets/img/userinterface.jpg" width="350" title="hover text">
+  <img src="assets/img/userinterface.jpg" width="350" title="Repository">
   </p>
-  <p align="centre">
-  <img src="assets/img/userlogin.jpg" width="350" title="hover text">
+  <p align="center">
+  <img src="assets/img/userlogin.jpg" width="350" title="Login">
 </p>
 <p align="center">
-  <img src="assets/img/upload.jpg" width="350" title="hover text">
+  <img src="assets/img/upload.jpg" width="350" title="Upload">
   </p>
       
 
