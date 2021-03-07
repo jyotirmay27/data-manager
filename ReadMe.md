@@ -15,7 +15,7 @@
 6. Import the 'database.sql' into your newly created database(Step-5) database using phpMyAdmin
 <p align="center">
   <img src="docs/data_import.jpg" width="350" title="Import sql file">
-  <img src="docs/data_import.jpg" width="350" title="On success">
+  <img src="docs/data_success.jpg" width="350" title="On success">
   </p>
 7. Edit the connect.php and config.php to point to your MySQL server, and fill in the credentials you used to complete Step-5
 
