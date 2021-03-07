@@ -8,8 +8,16 @@
 2. Run the executable and select atleast Apache, PHP, MySQL, Fake Sendmail and phpMyAdmin to install.
 3. Install at any desired location, for now we assume it to be the default, 'C:\xampp'
 4. git clone this repo or download this repo as zip file and extract it to 'C:\xampp\htdocs', replace 'C:\xampp' with path to your XAMPP installation directory.
-5. Import the 'signup (2).sql' into your database using phpMyAdmin
-6. Edit the connect.php and config.php to point to your MySQL server, and fill in the credentials you used to complete Step-5
+5. Create a new database using phpMyAdmin
+<p align="center">
+  <img src="docs/data.jpg" width="350" title="Newly created database">
+  </p>
+6. Import the 'database.sql' into your newly created database(Step-5) database using phpMyAdmin
+<p align="center">
+  <img src="docs/data_import.jpg" width="350" title="Import sql file">
+  <img src="docs/data_import.jpg" width="350" title="On success">
+  </p>
+7. Edit the connect.php and config.php to point to your MySQL server, and fill in the credentials you used to complete Step-5
 
 ### Optional steps to enable password resetting mails:
 1. Open your PHP configuration file placed at 'C:\xampp\php\php.ini' in a text editor, replace 'C:\xampp' with path to your XAMPP installation directory.
