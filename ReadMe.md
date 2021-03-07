@@ -65,13 +65,9 @@ mail.force_extra_parameters = "-t"
 <p align="center">
   <img src="assets/img/upload.jpg" width="350" title="Upload">
   </p>
-  ## Video
- <p align="center">
-  <video width="350" height="260" controls >
-    <source src="assets/project.mp4" type="video/mp4">
-  
-  </video>
-  </p>
+ 
+ ![DATA_MANAGER](assets/project.mp4)
+
 
       
 
