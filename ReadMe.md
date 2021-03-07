@@ -66,7 +66,7 @@ mail.force_extra_parameters = "-t"
   <img src="assets/img/upload.jpg" width="350" title="Upload">
   </p>
  
- ![DATA_MANAGER](assets/project.mp4)
+
 
 
       
